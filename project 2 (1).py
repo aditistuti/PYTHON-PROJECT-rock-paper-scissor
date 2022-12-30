@@ -1,4 +1,4 @@
-25# Rock Paper Scissor
+# Rock Paper Scissor
 
 import time
 from random import *
